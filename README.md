@@ -43,7 +43,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcioPires}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M-Dev-Pires}/count.svg" /></p> 
 <br></div>
 
 
