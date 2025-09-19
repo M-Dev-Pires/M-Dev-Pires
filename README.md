@@ -42,9 +42,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-M-Dev-Pires>"
-    </div>
+    <img src="https://komarev.com/ghpvc/?username=M-Dev-Pires&label=Views" alt="GitHub Profile Views Counter">
+</div>
 
 
 
