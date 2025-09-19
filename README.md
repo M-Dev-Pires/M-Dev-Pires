@@ -43,7 +43,7 @@
 
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-M-Dev-Pires>"/>  
+            src="https://widgetbite.com/stats/<github-M-Dev-Pires>"
     </div>
 
 
